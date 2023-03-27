@@ -1,1 +1,1 @@
-# digital design w/ verilog
+#verilog
